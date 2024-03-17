@@ -58,7 +58,7 @@
    visibility: visible;
    transform:translate(-50%,-50%) scale(1);
    animation: style 5s ease-out 3 normal ;
-   background-color: black;
+   
    
 }
 
